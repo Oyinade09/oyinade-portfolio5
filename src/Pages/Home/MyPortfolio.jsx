@@ -8,8 +8,9 @@ export default function MyPortfolio() {
           <p className="sub--title">My Work</p>
           <h2 className="section--heading">Projects.</h2>
         </div>
-        <div>
+        <div><a href="https://github.com/Oyinade09">
           <button className="btn btn-github">
+            
             <svg
               xmlns="http://www.w3.org/2000/svg"
               width="32"
@@ -25,7 +26,7 @@ export default function MyPortfolio() {
               />
             </svg>
             Visit My GitHub
-          </button>
+          </button></a>
         </div>
       </div>
       <div className="portfolio--section--container">
