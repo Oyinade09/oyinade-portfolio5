@@ -24,23 +24,23 @@
   "portfolio": [
     {
       "id": "1",
-      "src": "./img/placeholder-image.png",
-      "title": "Ahuse",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "src": "./img/meal-app.png",
+      "title": "Meal App",
+      "description": "Web-based platform that allows users Choose your favorite meal from our broad selection of available meals and enjoy a delicious lunch or dinner at home.",
       "link": "View In Github"
     },
     {
       "id": "2",
-      "src": "./img/placeholder-image-1.png",
-      "title": "App Dashboard",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "src": "./img/expense.png",
+      "title": "Expense Tracker",
+      "description": "Basic Expense Tracker Web application that enables users to keep track of your spending and savings and filter them and view a chart that shows how much spent each month",
       "link": "View In Github"
     },
     {
       "id": "3",
-      "src": "./img/placeholder-image-2.png",
-      "title": "Easy Rentn",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "src": "./img/landing.png",
+      "title": "Free X",
+      "description": "We assess transaction efficiency, security, and fees for both crypto and traditional methods. Empowering your freelancing with seamless, confident transactions",
       "link": "View In Github"
     }
   ]

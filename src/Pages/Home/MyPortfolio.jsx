@@ -7,6 +7,10 @@ export default function MyPortfolio() {
         <div className="portfolio--container">
           <p className="sub--title">My Work</p>
           <h2 className="section--heading">Projects.</h2>
+          <p className="hero--section-description">
+          Projects displayed below showcases my skills and my experience. 
+          It shows my ability to solve problems and work with different technologies.
+          </p>
         </div>
         <div><a href="https://github.com/Oyinade09">
           <button className="btn btn-github">
