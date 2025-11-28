@@ -5,12 +5,11 @@ export default function HeroSection() {
           <div className="hero--section--content">
             <p className="section--title">Hey, I'm </p>
             <h1 className="hero--section--title">
-              <span className="hero--section-title--color">Oyinade</span> <br />
-              Odogun
+              <span className="hero--section-title--color">Odogun Oyinade</span>
             </h1>
             <p className="hero--section-description">
-              I develop web applications,
-              <br /> user interfaces and Data Analysis
+              A developer who loves bringing ideas to life
+              <br /> through code. I specialize in crafting web applications and user interfaces that look good and work even better.
             </p>
           </div>
           <div className=" flex items-center object-center">

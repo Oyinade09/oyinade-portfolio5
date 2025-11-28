@@ -32,6 +32,7 @@ body {
     font-family: "Roboto";
     display: inline-block;
     padding: 14px 32px;
+    margin-top: 30px;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -135,7 +136,7 @@ body {
   /* Skills & About Me */
   .section--title {
     color: var(--heading-color);
-    font-size: 21px;
+    font-size: 24px;
     text-align: center;
     font-style: normal;
     font-weight: 600;
@@ -216,7 +217,7 @@ body {
   }
   .hero--section--title {
     color: var(--heading-color);
-    font-size: 74.667px;
+    font-size: 73.667px;
     font-weight: 700;
     line-height: 90px;
     align-self: stretch;
